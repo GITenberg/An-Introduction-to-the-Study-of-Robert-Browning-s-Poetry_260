@@ -1,5 +1,8 @@
 _repo: An-Introduction-to-the-Study-of-Robert-Browning-s-Poetry_260
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Corson, Hiram
@@ -16,6 +19,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
 description: 'Critical introduction, with selected poems (p. [143]-360) with "Arguments
   of the poems: (p. 99-142) and A list of criticisms of Browning''s works: p. [361]-367.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/260#An-Introduction-to-the-Study-of-Robert-Browning-s-Poetry
 gutenberg_issued: '2008-07-05'
 gutenberg_type: Text
 identifiers:
